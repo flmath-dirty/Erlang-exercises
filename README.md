@@ -1,6 +1,6 @@
 ##Exercise:
 
-###listReverse:
+###ListReverse:
 
   Reverses the elements but positions of sub-lists are kept.
   
